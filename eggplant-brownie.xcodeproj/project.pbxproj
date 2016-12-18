@@ -193,6 +193,7 @@
 				TargetAttributes = {
 					DB5361801E071851007E0763 = {
 						CreatedOnToolsVersion = 8.1;
+						DevelopmentTeam = ESQS39HEC9;
 						ProvisioningStyle = Automatic;
 					};
 					DB5361941E071852007E0763 = {
@@ -410,6 +411,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = ESQS39HEC9;
 				INFOPLIST_FILE = "eggplant-brownie/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.cesar.eggplant-brownie";
@@ -422,6 +424,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = ESQS39HEC9;
 				INFOPLIST_FILE = "eggplant-brownie/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.cesar.eggplant-brownie";
