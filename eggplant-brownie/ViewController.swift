@@ -9,9 +9,13 @@
 import UIKit
 
 class ViewController: UIViewController {
+    
+    @IBOutlet var nameField : UITextField!
+    @IBOutlet var happinessField : UITextField!
+    
     @IBAction func add(){
-        let name : String = "Cesar sanduba";
-        let happiness : String = "5"
+        let name  = nameField.text
+        let happiness = happinessField.text
         print("Nome \(name) Felicidade: \(happiness)")
     }
 }

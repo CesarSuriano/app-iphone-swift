@@ -60,6 +60,10 @@
                         </subviews>
                         <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                     </view>
+                    <connections>
+                        <outlet property="happinessField" destination="k8n-lJ-QrS" id="KAN-fT-cEn"/>
+                        <outlet property="nameField" destination="HH7-k4-LwV" id="2G4-sW-z6B"/>
+                    </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
             </objects>
